@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AW74FDt5gdL1cva8e0oynp3NpD8EmMPdh57mwq5XmkA=",
+  "Source": "ApiSwagger",
+  "BasePath": "_content/ApiSwagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
